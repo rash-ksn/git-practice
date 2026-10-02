@@ -1,0 +1,3 @@
+college smce
+75 students in ISE dept
+800 students in college
